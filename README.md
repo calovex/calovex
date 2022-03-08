@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ALEX OVEY BUSAKA @calovex
-- 👀 I’m interested in  Web development, Mobile Development and Data Science (Machine learning, AI, BI, pyhton)
-- 🌱 I’m currently learning Flutter, Kotlin and  Swift 
-- 💞️ I’m looking to collaborate on any web development project, mobile development project or data science project 
+- 👀 I’m interested in  Web development  with inteterst in PHP, Laravel, Wordpress, Vuew and React
+- 🌱 I’m currently learning and developing new personal projects
+- 💞️ I’m looking to collaborate on any web development project 
 - 📫 How to reach me is through whatsapp (+254713025917), mobile phone: +254713025917 , github 
 
 <!---https://github.com/calovex/calovex
